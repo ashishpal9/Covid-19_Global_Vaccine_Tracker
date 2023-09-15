@@ -4,7 +4,7 @@ of the most popular and powerful data visualisation softwares.After exploration 
 which is updated regularly and it uses the most recent official numbers from governments and health ministries worldwide.
 
 
-#Key metrics displayed in the dashboard include:
+Key metrics displayed in the dashboard include:
 
 i) share of the population that has been partly or fully vaccinated
 ii) vaccine doses administred daily
